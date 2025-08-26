@@ -16,7 +16,7 @@ A basic inventory management backend built using **ExpressJS**, **MongoDB (Mongo
   - Logs request method and URL
   - Handles **404 errors** with JSON response
 - MongoDB connection using **Mongoose**
-- Tested with **Postman** (Collection included)
+- Tested with **Postman** (screenshots included)
 
 ---
 
